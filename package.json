@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "jquery": ">=1.12.4"
+  },
+  "name": "safe-jquery",
+  "version": "1.0.0",
+  "main": "safe-jquery.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/light-source/safe-jquery.git"
+  },
+  "author": "LightSource",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/light-source/safe-jquery/issues"
+  },
+  "homepage": "https://github.com/light-source/safe-jquery#readme",
+  "description": "Safe jQuery"
+}
