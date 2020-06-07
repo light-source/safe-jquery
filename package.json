@@ -2,7 +2,7 @@
   "dependencies": {
     "jquery": ">=1.12.4"
   },
-  "name": "safe-jquery",
+  "name": "@lightsource/safe-jquery",
   "version": "1.0.0",
   "main": "safe-jquery.js",
   "devDependencies": {},
