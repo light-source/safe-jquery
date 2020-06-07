@@ -3,7 +3,7 @@
     "jquery": ">=1.12.4"
   },
   "name": "@lightsource/safe-jquery",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "safe-jquery.js",
   "devDependencies": {},
   "scripts": {
@@ -19,5 +19,11 @@
     "url": "https://github.com/light-source/safe-jquery/issues"
   },
   "homepage": "https://github.com/light-source/safe-jquery#readme",
-  "description": "Safe jQuery"
+  "description": "Extends jQuery with adding methods like ._val(), ._text(),etc.. They is based on default methods, but have errorCallback, which will be calling when something is wrong - like as an element is missing. It's an easy way to have debugging and provide a safe code without additional checks",
+  "keywords": [
+    "jquery",
+    "debugging",
+    "extends",
+    "safe"
+  ]
 }
