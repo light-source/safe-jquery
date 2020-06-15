@@ -183,7 +183,7 @@ $.fn.extend({
 
             response = this.attr(name);
 
-            if (Helper.IsUndefined(response)) {
+            if (SafeJquery.IsUndefined(response)) {
 
                 response = '';
 
