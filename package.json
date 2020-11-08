@@ -3,7 +3,7 @@
     "jquery": ">=1.12.4"
   },
   "name": "@lightsource/safe-jquery",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "safe-jquery.js",
   "devDependencies": {},
   "scripts": {
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/light-source/safe-jquery.git"
   },
   "author": "LightSource",
-  "license": "MIT",
+  "license": "GPL-2.0-only",
   "bugs": {
     "url": "https://github.com/light-source/safe-jquery/issues"
   },
